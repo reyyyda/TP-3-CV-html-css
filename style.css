@@ -1,29 +1,40 @@
    img {
-
     width: 150px;
     height: 150px;
-    margin-top: 20px;
-
-    }
-
-  
-
-    h1 {
-    
-    color: black;
-
-
-    }
-
-    h3 {
-
-    color: blue;
-
     }
 
     body {
-
-    background-color: #f0f0f0;
+    background-color:violet;
     font-family: Arial, sans-serif;
-    
     }
+
+    .container {
+    display: flex;
+    width: 80%;
+    margin: 30px auto;
+    background: white;
+
+   }
+
+
+   h1 {
+   color: blue;
+   margin-left: 30px;
+   }
+
+   b {
+    color: gray;
+    font-size: 14px;
+    margin-left: 450px;
+   }
+
+
+   ul {
+      color: gray;
+      margin-left: 40px;
+   }
+
+   h3 {
+    color: orange;
+    margin-left: 30px;
+   }
