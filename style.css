@@ -4,7 +4,7 @@
     }
 
     body {
-    background-color:violet;
+    background-color:grey;
     font-family: Arial, sans-serif;
     }
 
@@ -18,7 +18,7 @@
 
 
    h1 {
-   color: blue;
+   color: rgb(83, 52, 52);
    margin-left: 30px;
    }
 
@@ -30,12 +30,12 @@
 
 
    ul {
-      color: gray;
+      color: black;
       margin-left: 40px;
    }
 
    h3 {
-    color: orange;
+    color: rgb(44, 153, 255);
     margin-left: 30px;
    }
 
